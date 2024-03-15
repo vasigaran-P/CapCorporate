@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783238138416",
+    "project_id": "capcorporate-11496",
+    "storage_bucket": "capcorporate-11496.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783238138416:android:3621001114326eb0923bf5",
+        "android_client_info": {
+          "package_name": "com.example.cap_corporate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChyr4hjvMElc-SiydZY5C84ijx0sLN68s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
